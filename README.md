@@ -1,4 +1,4 @@
-# Inventory Management System (Flask + MySQL)
+# Inventory Management System 
 
 ## Setup
 1. `pip install -r requirements.txt`
